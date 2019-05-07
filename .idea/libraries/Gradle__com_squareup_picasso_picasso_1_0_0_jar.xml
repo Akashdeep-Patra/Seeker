@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.picasso:picasso:1.0.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/1.0.0/8b047c6c15a05dafbbbc1b4570319b0a8d6fd2b9/picasso-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/1.0.0/87979898ed7bf2f911c3fafe0b6ca11683463e1c/picasso-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapzen.android:speakerbox:1.4.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/speakerbox-1.4.1.aar/0a20f0f5065ce6c9d088c6eff0a3edda/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/speakerbox-1.4.1.aar/0a20f0f5065ce6c9d088c6eff0a3edda/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapzen.android/speakerbox/1.4.1/a0a8d27ac68985aee18f635b8f86a77b676493bc/speakerbox-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
